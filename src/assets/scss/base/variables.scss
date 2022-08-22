@@ -1,0 +1,47 @@
+$primary: #2A7AF1;
+$secondary: #1C1D20;
+$secondary-light: #D7D7D8;
+$secondary-dark: #414141;
+$info: #952CB7;
+$info-lighter: #FAF5FF;
+$success: #68CB92;
+$success-lighter: #ECFFF4;
+$warning: #FC9D79;
+$warning-lighter: #FFF7F3;
+$danger: #ED4052;
+$danger-lighter: #FFF8F9;
+$black: #2E3033;
+$light-gray: #eeeeee;
+$white: #ffffff;
+
+$background-white: $white;
+$background-dark: $secondary;
+
+//Text color
+$dark-text: #2E3033;
+$light-text: #9EA5AB;
+
+//Font weight
+$font-weight-medium: 500;
+$font-weight-regular: 400;
+$font-weight-semi-bold: 600;
+$font-weight-bold: 700;
+$font-extra-bold: 800;
+
+//Gray colors
+$gray-100: #F3F6F9 !default;
+$gray-200: #EBEDF3 !default;
+$gray-300: #E4E6EF !default;
+$gray-400: #D1D3E0 !default;
+$gray-500: #B5B5C3 !default;
+$gray-600: #7E8299 !default;
+$gray-700: #5E6278 !default;
+$gray-800: #3F4254 !default;
+$gray-900: #181C32 !default;
+
+// Dark colors
+$dark: $gray-900 !default;
+$dark-75: $gray-800 !default;
+$dark-65: $gray-700 !default;
+$dark-50: $gray-600 !default;
+$dark-25: $gray-400 !default;
